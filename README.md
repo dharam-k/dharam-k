@@ -1,3 +1,6 @@
+
+![Black Technology LinkedIn Banner (1)](https://github.com/dharam-k/dharam-k/assets/21245166/72acbcfa-26c9-42e8-996d-0332b0b43c77)
+
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Dharmendra Kumar</h1>
 
 - 🔭 Backend Developer at Infrablok India Private Limited, Noida.
